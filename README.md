@@ -3,7 +3,7 @@
 Boss Leathers is a small leather products business which has recently started selling its products on Amazon. Currently, it has around 40 SKUs registered in the Indian Marketplace. Over the past few months, it has incurred some loss due to return orders. Now, Boss Leather seeks help to predict the liklihood of a new order being rejected. This would help them in taking necessary actions and subsequently in reducing the loss.
 
 <h2>Objective</h2>
-To build an app which would predict the order status on providing some order detais.
+To build an app which would predict the order status upon providing some order details.
 
 <h2>Data Dictionary</h2>
 Order details have been scrapped from the Seller Central website using Google App - Web Scraper.
