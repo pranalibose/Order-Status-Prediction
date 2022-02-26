@@ -8,7 +8,7 @@ To build an app which would predict the order status upon providing some order d
 <h2>Data Dictionary</h2>
 Order details have been scrapped from the Seller Central website using Google App - Web Scraper.
 
-<p>The Order data is stored in a csv file. The columns are:
+<p>The Order data is stored in an excel file. The columns are:
 
   *Independent Features:*
   
